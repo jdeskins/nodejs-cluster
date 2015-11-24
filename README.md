@@ -26,7 +26,7 @@ Set project as variable to avoid re-typing:
 ### Scale up
 `kubectl scale rc hello-node --replicas=3`
 
-### Cleanup
+## Cleanup
 #### Services
 `kubectl delete services hello-node`
 
