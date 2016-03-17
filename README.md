@@ -2,7 +2,7 @@
 
 Set project as variable to avoid re-typing:
 
-`export PROJECT_ID=jd-node-test`
+`export PROJECT_ID=[YOUR_PROJECT_ID]`
 
 Create Docker image
 
